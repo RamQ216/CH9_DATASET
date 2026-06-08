@@ -1,0 +1,11 @@
+metric,value
+RAW rows,8782.0
+CORE rows,8513.0
+Quarantine rows,97.0
+Quarantine %,1.13
+Duplicates removed,172.0
+Date mismatch %,51.11
+Total usuarios,2000.0
+Usuarios top 1%,20.0
+% posts desde top 1%,6.03
+% votos desde top 1%,6.43
